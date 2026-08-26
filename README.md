@@ -2,6 +2,10 @@
 
 A Windows desktop viewer for Graal Online level files, built in C# with Windows Forms.
 
+## Upstream attribution
+
+This repository is a fork of **Deph0/Graal-Level-Viewer**. Credit for the original project belongs to the upstream project and its contributors. This fork is being preserved and documented for reference and continued experimentation.
+
 ## Project status
 
 This is an older project preserved for reference and continued experimentation with Graal level tooling.
