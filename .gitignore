@@ -1,0 +1,16 @@
+# Visual Studio build output
+bin/
+obj/
+
+# User-specific Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Build/debug artifacts
+*.pdb
+*.cache
+
+# OS/editor files
+Thumbs.db
+.DS_Store
