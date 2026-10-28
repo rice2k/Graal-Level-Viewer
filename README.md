@@ -1,6 +1,8 @@
 # Graal Level Viewer
 
-A Windows desktop viewer for Graal Online level files, built in C# with Windows Forms.
+**Graal Level Viewer** is a preserved Windows C# / Windows Forms tool for viewing **GraalOnline level files**. It is maintained as a historical development reference and experimental fork, with documented build requirements and upstream credit.
+
+[Explore GraalOnline tools](https://rice2k.github.io/rice2k-startdeck/projects/?category=GraalOnline) · [View this repository](https://github.com/rice2k/Graal-Level-Viewer)
 
 ## Upstream attribution
 
